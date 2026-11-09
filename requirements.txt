@@ -1,0 +1,7 @@
+gymnasium
+numpy
+matplotlib
+pandas
+pillow
+tqdm
+pytest
